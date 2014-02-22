@@ -1,4 +1,4 @@
-Litecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+SeitCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2 minute block targets
  - subsidy halves in 100k blocks (138 days)
  - 100k total coins
