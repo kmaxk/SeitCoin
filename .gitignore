@@ -1,7 +1,7 @@
 src/*.exe
-src/litecoin
-src/litecoind
-src/test_litecoin
+src/seitcoin
+src/seitcoind
+src/test_seitcoin
 .*.swp
 *.*~*
 *.bak
@@ -9,17 +9,17 @@ src/test_litecoin
 *.orig
 *.o
 *.patch
-.litecoin
+.seitcoin
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-litecoin-qt
-Litecoin-Qt.app
+seitcoin-qt
+SeitCoin-Qt.app
 
 # Unit-tests
 Makefile.test
-litecoin-qt_test
+seitcoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
